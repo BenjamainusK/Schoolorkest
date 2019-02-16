@@ -1,6 +1,9 @@
 ---
 layout: page
-title: About this website
+title: Het Schoolorkest
 ---
 
-I'm not sure yet what this website is about, but I'm sure I'll work it out soon.
+Wij vormen met zo'n 20 leerlingen en onze dirigent het prachtige orkest van het Coornhert Gymnasium.
+
+Bespeel jij een instrument en zou je ook graag in het orkest mee willen spelen? Dat kan!
+Stuur een mailtje naar dit mailadres: ...
