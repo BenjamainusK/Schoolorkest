@@ -6,7 +6,7 @@ title: Het Schoolorkest
 Wij vormen met zo'n 20 leerlingen en onze dirigent het prachtige orkest van het Coornhert Gymnasium.
 
 <div class="container">
-  <img src="https://cdn.pixabay.com/photo/2017/02/25/22/05/orchestra-2098877_960_720.jpg" alt="Nature" style="width:100%;">
+  <img src="https://images.unsplash.com/photo-1465847899084-d164df4dedc6?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80" alt="Nature" style="width:100%;">
   <div class="text-block">
     <h4>Amsterdam</h4>
     <p>Orkestival 2018</p>
