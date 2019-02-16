@@ -5,13 +5,6 @@ title: Het Schoolorkest
 
 Wij vormen met zo'n 20 leerlingen en onze dirigent het prachtige orkest van het Coornhert Gymnasium.
 
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<style>
-.container {
-  position: relative;
-  font-family: Arial;
-}
-
 .text-block {
   position: absolute;
   bottom: 20px;
@@ -20,10 +13,7 @@ Wij vormen met zo'n 20 leerlingen en onze dirigent het prachtige orkest van het 
   color: white;
   padding-left: 20px;
   padding-right: 20px;
-}
-</style>
-</head>
-<body>
+
 
 <h2>Image Text Blocks</h2>
 <p>How to place text blocks over an image:</p>
