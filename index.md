@@ -1,7 +1,7 @@
 ---
 title: Welkom op onze site
 layout: page
-feature_image: "https://cdn.pixabay.com/photo/2018/11/22/10/51/score-3831644_960_720.jpg"
+feature_image: "https://cdn.pixabay.com/photo/2016/11/18/15/01/piano-1835179_960_720.jpg"
 feature_text: |
   ## Schoolorkest
 ---
