@@ -5,9 +5,32 @@ title: Het Schoolorkest
 
 Wij vormen met zo'n 20 leerlingen en onze dirigent het prachtige orkest van het Coornhert Gymnasium.
 
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+.container {
+  position: relative;
+  font-family: Arial;
+}
+
+.text-block {
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
+  background-color: black;
+  color: white;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+</style>
+</head>
+<body>
+
+<h2>Image Text Blocks</h2>
+<p>How to place text blocks over an image:</p>
+
 <div class="container">
-  <img src="https://cdn.pixabay.com/photo/2017/02/25/22/05/orchestra-2098877_960_720.jpg" alt="Norway" style="width:100%;">
-  <div class="text-block"> 
+  <img src="https://cdn.pixabay.com/photo/2017/02/25/22/05/orchestra-2098877_960_720.jpg" alt="Nature" style="width:100%;">
+  <div class="text-block">
     <h4>Amsterdam</h4>
     <p>Orkestival 2018</p>
   </div>
