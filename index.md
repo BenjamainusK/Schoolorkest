@@ -8,4 +8,4 @@ feature_text: |
 
 Wij zijn het Schoolorkst van het Coornhert Gymnasium in Gouda
 
-<img src="w3schools.jpg" alt="W3Schools.com" width="104" height="142">
+<img src="https://picsum.photos/1300/400?image=989" alt="https://picsum.photos/1300/400?image=989" width="104" height="142">
