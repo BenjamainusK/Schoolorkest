@@ -1,7 +1,7 @@
 ---
 title: Welkom op onze site
 layout: page
-feature_image: "https://picsum.photos/2560/600?random"
+feature_image: "https://picsum.photos/2560/600?image=830"
 feature_text: |
   ## Schoolorkest
 ---
