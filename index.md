@@ -6,4 +6,4 @@ feature_text: |
   ## Schoolorkest
 ---
 
-There isn't much going on here yet, but watch this space
+Wij zijn het Schoolorkst van het Coornhert Gymnasium in Gouda
