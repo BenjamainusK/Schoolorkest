@@ -8,5 +8,5 @@ feature_text: |
 
 Wij zijn het Schoolorkest van het Coornhert Gymnasium in Gouda.
 
-<a href="https://coornhertschoolorkest-example.netlify.com/about/">Hier</a> vind je meer informatie over ons orkest
+<a href="https://coornhertschoolorkest-example.netlify.com/about/">Hier</a> vind je meer informatie over ons orkest.
 
