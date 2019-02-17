@@ -21,6 +21,10 @@ Stuur even een mailtje naar dit mailadres: ...
 
 ## Video's ##
 
+
 <embed width="420" height="315"
 src="https://www.youtube.com/embed/Kpew9HXyVHQ">
 
+
+<embed width="420" height="315"
+src="https://www.youtube.com/embed/HuZMZ4lG49Y">
