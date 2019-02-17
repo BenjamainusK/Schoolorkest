@@ -36,9 +36,9 @@ src="https://www.youtube.com/embed/HuZMZ4lG49Y">
 
 <table>
   <tr>
-    <th>Company</th>
-    <th>Contact</th>
-    <th>Country</th>
+    <th>Wat</th>
+    <th>Waar</th>
+    <th>Wanneer</th>
   </tr>
   <tr>
     <td>Alfreds Futterkiste</td>
