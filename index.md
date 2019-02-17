@@ -1,7 +1,7 @@
 ---
 title: Welkom op onze site
 layout: page
-feature_image: "https://images.unsplash.com/photo-1521623783436-1e4ccc0448c1?ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80"
+feature_image: "https://images.unsplash.com/photo-1483921020237-2ff51e8e4b22?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80"
 feature_text: |
   ## Schoolorkest
 ---
