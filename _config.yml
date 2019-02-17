@@ -19,10 +19,10 @@ plugins:
 - jemoji
 
 # Site settings
-url: 'https://mydomain.com'
+url: 'https://netlify.com'
 baseurl: ''
 title: 'Coornhert Schoolorkest'
-description: 'This is my new website'
+description: 'Coornhert Schoolorkest'
 permalink: pretty
 logo: "https://pbs.twimg.com/profile_images/413613427261583360/YY4cxqg0_400x400.jpeg"
 
