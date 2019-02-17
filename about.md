@@ -21,7 +21,7 @@ Stuur even een mailtje naar dit mailadres: ...
 
 ## Video's ##
 
-<iframe src="https://www.w3schools.com">
+<iframe src="https://www.youtube.com/watch?v=Kpew9HXyVHQ">
   <p>Your browser does not support iframes.</p>
 </iframe>
 
