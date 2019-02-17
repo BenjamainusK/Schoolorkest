@@ -8,7 +8,7 @@ Wij vormen met zo'n 20 leerlingen en onze dirigent het prachtige orkest van het 
 <div class="container">
   <img src="https://images.unsplash.com/photo-1465847899084-d164df4dedc6?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80" alt="Nature" style="width:100%;">
   <div class="text-block">
-    <h4>Amsterdam</h4>
+    <h3>Amsterdam</h3>
     <p>Orkestival 2018</p>
   </div>
 </div>
