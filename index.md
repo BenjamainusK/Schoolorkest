@@ -8,6 +8,3 @@ feature_text: |
 
 Wij zijn het Schoolorkst van het Coornhert Gymnasium in Gouda.
 
-## Video's ##
-
-<iframe src="https://www.youtube.com/watch?v=Kpew9HXyVHQ"></iframe>
