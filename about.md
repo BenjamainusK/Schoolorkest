@@ -3,7 +3,7 @@ layout: page
 title: Het Schoolorkest
 ---
 
-Wij vormen met zo'n 20 leerlingen samen met onze dirigent het prachtige orkest van het Coornhert Gymnasium.
+Wij vormen met zo'n 20 leerlingen en onze dirigent het prachtige orkest van het Coornhert Gymnasium.
 
 <div class="container">
   <img src="https://images.unsplash.com/photo-1465847899084-d164df4dedc6?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80" alt="Nature" style="width:100%;">
