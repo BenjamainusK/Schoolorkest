@@ -34,8 +34,6 @@ src="https://www.youtube.com/embed/HuZMZ4lG49Y">
 </head>
 <body>
 
-<h2>HTML Table</h2>
-
 <table>
   <tr>
     <th>Company</th>
