@@ -21,8 +21,6 @@ Stuur even een mailtje naar dit mailadres: ...
 
 ## Video's ##
 
-<iframe width="420" height="315"
-src="https://www.youtube.com/watch?v=Kpew9HXyVHQ">
-</iframe>
-
+<embed width="420" height="315"
+src="https://www.youtube.com/embed/tgbNymZ7vqY">
 
