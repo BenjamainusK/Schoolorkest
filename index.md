@@ -14,11 +14,10 @@ Wij zijn het Schoolorkest van het Coornhert Gymnasium in Gouda.
 <head>
 <title>multiple-choice quiz form</title>
 </head>
-<body bgcolor=#ffffff>
 
 <h3>Vocabulary Quiz I</h3>
 
-<form method="post" action="mailto:raizen@mail.utexas.edu?subject=Vocabulary Quiz 1" enctype="text/plain">
+<form method="post" action="mailto:bloggerjustbeheer@gmail.com?subject=Vocabulary Quiz 1" enctype="text/plain">
 
 Check the answer to each multiple-coice question, and click on the "Send Form" button to submit the information.
 
@@ -50,5 +49,4 @@ Check the answer to each multiple-coice question, and click on the "Send Form" b
 <input type="submit" value="Send Form">
 <input type="reset" value="Clear Form">
 </form>
-</body>
 </html>
