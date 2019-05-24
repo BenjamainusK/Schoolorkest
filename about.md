@@ -21,9 +21,9 @@ Stuur even een mailtje naar dit mailadres: ...
 
 ## Activiteiten ##
 
-Jaarlijks:
 - Orkestival
-- 
+- Slotconcert
+- ...
 
 ## Video's ##
 
