@@ -14,9 +14,16 @@ Wij vormen met zo'n 20 leerlingen en onze dirigent het prachtige orkest van het 
 </div>
 
 
-Bespeel jij een instrument en zou je ook graag in het orkest mee willen spelen? 
+Bespeel jij een instrument en zou je ook graag in het orkest willen meespelen? 
+
 Dat kan!
 Stuur even een mailtje naar dit mailadres: ...
+
+## Activiteiten ##
+
+Jaarlijks:
+- Orkestival
+- 
 
 ## Video's ##
 
