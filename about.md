@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Het Schoolorkest
-favicon: <link rel="shortcut icon" href="http://example.com/favicon.ico" />
 ---
 
 Wij vormen met zo'n 20 leerlingen en onze dirigent het prachtige orkest van het Coornhert Gymnasium.
